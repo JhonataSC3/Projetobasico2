@@ -1,0 +1,47 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#pessoa {
+    width: 592px;
+    margin: 0 auto 27px;
+}
+
+#pessoa img {
+    margin-bottom: 27px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 66px;
+    font-weight: normal;
+    margin-bottom: 27px;
+}
+
+h1 span {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    color: #EE24FF;
+}
+
+p {
+    color: #828282;
+    font-size: 15px;
+    margin-bottom: 27px;
+}
+
+span {
+    font-weight: bold;
+    color: #231F20;
+}
+ 
+strong {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+}
+
+
+
